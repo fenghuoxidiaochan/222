@@ -1,0 +1,15 @@
+{
+  "name": "myfile",
+  "version": "1.0.0",
+  "description": "xxx",
+  "main": "webpack entry``````打包入口",
+  "scripts": {
+    "start":"node helloworld.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "1910"
+  ],
+  "author": "yzh",
+  "license": "MIT"
+}
